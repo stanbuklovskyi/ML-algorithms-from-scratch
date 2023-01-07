@@ -23,11 +23,11 @@ All files include algorithms coded in OOP and tests at the end. If you want clas
 
 ## Testing results
  
-✅ Naive Bayes: Random 1000 samples, 10 features, 2 classes -> 88% accuracy.
+✅ **Naive Bayes**: Random 1000 samples, 10 features, 2 classes -> 88% accuracy.
 
-✅ Decision Tree: Breast cancer dataset -> 93.9% accuracy
+✅ **Decision Tree**: Breast cancer dataset -> 93.9% accuracy
 
-✅ Random Forest: Breast cancer dataset -> 92.9% accuracy
+✅ **Random Forest**: Breast cancer dataset -> 92.9% accuracy
  
 ## License
 
